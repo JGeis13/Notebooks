@@ -1,0 +1,991 @@
+year,team,odds,wins_over_under,actual_record,result
+1984-85,Boston Celtics,+200,,,
+1984-85,Los Angeles Lakers,+200,,,
+1984-85,Philadelphia 76ers,+250,,,
+1984-85,New York Knicks,+500,,,
+1984-85,Detroit Pistons,+600,,,
+1984-85,Portland Trail Blazers,+800,,,
+1984-85,Milwaukee Bucks,+800,,,
+1984-85,Seattle SuperSonics,+1000,,,
+1984-85,New Jersey Nets,+1000,,,
+1984-85,Utah Jazz,+1200,,,
+1984-85,Houston Rockets,+1200,,,
+1984-85,Dallas Mavericks,+1500,,,
+1989-90,Detroit Pistons,+300,,,
+1984-85,Phoenix Suns,+1500,,,
+1984-85,Washington Bullets,+2000,,,
+1984-85,Denver Nuggets,+2000,,,
+1984-85,San Antonio Spurs,+2500,,,
+1984-85,Atlanta Hawks,+2500,,,
+1984-85,Los Angeles Clippers,+3500,,,
+1985-86,Los Angeles Lakers,+160,,,
+1989-90,Phoenix Suns,+500,,,
+1989-90,Los Angeles Lakers,+500,,,
+1989-90,Cleveland Cavaliers,+600,,,
+1989-90,Boston Celtics,+800,,,
+1989-90,Chicago Bulls,+800,,,
+1989-90,New York Knicks,+800,,,
+1989-90,Utah Jazz,+800,,,
+1989-90,Atlanta Hawks,+1500,,,
+1987-88,Los Angeles Lakers,+120,,,
+1992-93,Chicago Bulls,+120,,,
+1990-91,Detroit Pistons,+350,,,
+1984-85,Kansas City Kings,+3500,,,
+1984-85,Golden State Warriors,+5000,,,
+1984-85,Chicago Bulls,+5000,,,
+1984-85,Indiana Pacers,+7500,,,
+1984-85,Cleveland Cavaliers,+7500,,,
+1985-86,Boston Celtics,+250,,,
+1985-86,Philadelphia 76ers,+350,,,
+1985-86,Milwaukee Bucks,+400,,,
+1985-86,Houston Rockets,+700,,,
+1985-86,Detroit Pistons,+800,,,
+1985-86,Portland Trail Blazers,+1000,,,
+1985-86,Dallas Mavericks,+1000,,,
+1985-86,Denver Nuggets,+1500,,,
+1985-86,New York Knicks,+1500,,,
+1991-92,Chicago Bulls,+250,,,
+1989-90,Seattle SuperSonics,+1500,,,
+1989-90,Milwaukee Bucks,+2000,,,
+1989-90,Houston Rockets,+2200,,,
+1989-90,Golden State Warriors,+2200,,,
+1989-90,Philadelphia 76ers,+2500,,,
+1989-90,San Antonio Spurs,+3500,,,
+1989-90,Portland Trail Blazers,+3500,,,
+1989-90,Denver Nuggets,+3500,,,
+1989-90,Dallas Mavericks,+3500,,,
+1989-90,Washington Bullets,+5500,,,
+1989-90,Sacramento Kings,+8500,,,
+1989-90,Indiana Pacers,+8500,,,
+1989-90,New Jersey Nets,+12500,,,
+1989-90,Los Angeles Clippers,+12500,,,
+1989-90,Charlotte Hornets,+25000,,,
+1989-90,Miami Heat,+30000,,,
+1989-90,Orlando Magic,+500000,,,
+1989-90,Minnesota Timberwolves,+500000,,,
+1987-88,Boston Celtics,+350,,,
+1987-88,Atlanta Hawks,+500,,,
+1987-88,Detroit Pistons,+600,,,
+1987-88,Dallas Mavericks,+700,,,
+1987-88,Houston Rockets,+700,,,
+1987-88,Milwaukee Bucks,+1200,,,
+1987-88,Portland Trail Blazers,+1800,,,
+1987-88,Philadelphia 76ers,+2000,,,
+1987-88,Seattle SuperSonics,+2500,,,
+1987-88,Utah Jazz,+3000,,,
+1986-87,Boston Celtics,+160,,,
+1992-93,Portland Trail Blazers,+350,,,
+1992-93,Cleveland Cavaliers,+500,,,
+1992-93,New York Knicks,+500,,,
+1992-93,Golden State Warriors,+800,,,
+1992-93,Utah Jazz,+1000,,,
+1992-93,San Antonio Spurs,+1000,,,
+1992-93,Phoenix Suns,+1000,,,
+1992-93,Boston Celtics,+2000,,,
+1992-93,Seattle SuperSonics,+2500,,,
+1992-93,Houston Rockets,+3000,,,
+1992-93,Los Angeles Clippers,+3000,,,
+1992-93,Detroit Pistons,+3500,,,
+1992-93,Miami Heat,+4000,,,
+1992-93,New Jersey Nets,+5000,,,
+1992-93,Philadelphia 76ers,+5000,,,
+1992-93,Los Angeles Lakers,+5000,,,
+1992-93,Indiana Pacers,+6000,,,
+1992-93,Charlotte Hornets,+6000,,,
+1992-93,Atlanta Hawks,+7500,,,
+1992-93,Orlando Magic,+10000,,,
+1990-91,Los Angeles Lakers,+450,,,
+1990-91,San Antonio Spurs,+600,,,
+1990-91,Chicago Bulls,+700,,,
+1990-91,Phoenix Suns,+800,,,
+1990-91,Portland Trail Blazers,+800,,,
+1990-91,Cleveland Cavaliers,+1000,,,
+1988-89,Los Angeles Lakers,+350,,,
+1993-94,New York Knicks,+200,,,
+1985-86,New Jersey Nets,+1500,,,
+1985-86,Washington Bullets,+2000,,,
+1985-86,Phoenix Suns,+3000,,,
+1985-86,Cleveland Cavaliers,+3000,,,
+1985-86,San Antonio Spurs,+3500,,,
+1985-86,Los Angeles Clippers,+4000,,,
+1985-86,Seattle SuperSonics,+4000,,,
+1985-86,Chicago Bulls,+4000,,,
+1985-86,Utah Jazz,+5000,,,
+1985-86,Indiana Pacers,+7500,,,
+1985-86,Atlanta Hawks,+10000,,,
+1985-86,Sacramento Kings,+10000,,,
+1985-86,Golden State Warriors,+20000,,,
+1991-92,Portland Trail Blazers,+400,,,
+1991-92,Los Angeles Lakers,+600,,,
+1991-92,San Antonio Spurs,+800,,,
+1991-92,Boston Celtics,+1000,,,
+1991-92,Detroit Pistons,+1000,,,
+1991-92,Houston Rockets,+1200,,,
+1991-92,Phoenix Suns,+1200,,,
+1991-92,Utah Jazz,+1200,,,
+1991-92,New York Knicks,+2200,,,
+1991-92,Milwaukee Bucks,+2500,,,
+1991-92,Philadelphia 76ers,+3000,,,
+1996-97,Chicago Bulls,+100,,,
+1994-95,Phoenix Suns,+350,,,
+1987-88,Washington Bullets,+4000,,,
+1987-88,Denver Nuggets,+4000,,,
+1987-88,Indiana Pacers,+5000,,,
+1987-88,Golden State Warriors,+5000,,,
+1987-88,Chicago Bulls,+5000,,,
+1987-88,Phoenix Suns,+7500,,,
+1987-88,Cleveland Cavaliers,+7500,,,
+1987-88,New Jersey Nets,+10000,,,
+1987-88,New York Knicks,+10000,,,
+1987-88,Sacramento Kings,+10000,,,
+1987-88,San Antonio Spurs,+10000,,,
+1987-88,Los Angeles Clippers,+30000,,,
+1986-87,Houston Rockets,+350,,,
+1986-87,Los Angeles Lakers,+400,,,
+1986-87,Milwaukee Bucks,+700,,,
+1986-87,Denver Nuggets,+800,,,
+1986-87,Dallas Mavericks,+1000,,,
+1986-87,Washington Bullets,+1300,,,
+1986-87,Philadelphia 76ers,+1500,,,
+1986-87,Atlanta Hawks,+1800,,,
+1986-87,Detroit Pistons,+2000,,,
+1986-87,New York Knicks,+2000,,,
+1986-87,Utah Jazz,+2200,,,
+1986-87,New Jersey Nets,+2500,,,
+1992-93,Milwaukee Bucks,+15000,,,
+1992-93,Denver Nuggets,+15000,,,
+1992-93,Washington Bullets,+15000,,,
+1992-93,Sacramento Kings,+20000,,,
+1990-91,Philadelphia 76ers,+1200,,,
+1990-91,Utah Jazz,+1200,,,
+1990-91,Boston Celtics,+1500,,,
+1990-91,New York Knicks,+1500,,,
+1990-91,Dallas Mavericks,+2000,,,
+1990-91,Milwaukee Bucks,+2500,,,
+1990-91,Seattle SuperSonics,+3000,,,
+1988-89,Detroit Pistons,+400,,,
+1988-89,Dallas Mavericks,+600,,,
+1988-89,Cleveland Cavaliers,+800,,,
+1988-89,Boston Celtics,+1000,,,
+1988-89,Atlanta Hawks,+1200,,,
+1993-94,Phoenix Suns,+300,,,
+1993-94,Cleveland Cavaliers,+500,,,
+1993-94,Seattle SuperSonics,+600,,,
+1993-94,Charlotte Hornets,+1200,,,
+1993-94,San Antonio Spurs,+1200,,,
+1993-94,Houston Rockets,+1200,,,
+1998-99,Los Angeles Lakers,+300,,,
+1999-00,Portland Trail Blazers,+350,,,
+1991-92,Indiana Pacers,+3500,,,
+1991-92,Seattle SuperSonics,+3500,,,
+1991-92,Golden State Warriors,+4000,,,
+1991-92,Cleveland Cavaliers,+4000,,,
+1991-92,Atlanta Hawks,+5000,,,
+1991-92,Washington Bullets,+7500,,,
+1991-92,Los Angeles Clippers,+7500,,,
+1991-92,Dallas Mavericks,+7500,,,
+1991-92,New Jersey Nets,+20000,,,
+1991-92,Sacramento Kings,+20000,,,
+1991-92,Miami Heat,+40000,,,
+2000-01,Los Angeles Lakers,+180,,,
+2001-02,Los Angeles Lakers,+200,,,
+1996-97,Los Angeles Lakers,+500,,,
+1996-97,Seattle SuperSonics,+600,,,
+1996-97,New York Knicks,+800,,,
+1996-97,Houston Rockets,+800,,,
+1996-97,Indiana Pacers,+1200,,,
+1996-97,Orlando Magic,+1500,,,
+1996-97,Miami Heat,+1500,,,
+1996-97,San Antonio Spurs,+1500,,,
+1996-97,Utah Jazz,+1800,,,
+1996-97,Atlanta Hawks,+2000,,,
+1996-97,Portland Trail Blazers,+3000,,,
+1996-97,Phoenix Suns,+3500,,,
+1996-97,Washington Bullets,+4000,,,
+1996-97,Detroit Pistons,+5000,,,
+1996-97,Charlotte Hornets,+5000,,,
+1996-97,Dallas Mavericks,+6000,,,
+1996-97,Sacramento Kings,+6000,,,
+1996-97,Cleveland Cavaliers,+6000,,,
+1996-97,Milwaukee Bucks,+7000,,,
+1996-97,New Jersey Nets,+7000,,,
+1996-97,Golden State Warriors,+7000,,,
+1996-97,Denver Nuggets,+7000,,,
+1994-95,Houston Rockets,+450,,,
+1994-95,New York Knicks,+450,,,
+1994-95,Orlando Magic,+450,,,
+1994-95,Seattle SuperSonics,+450,,,
+1994-95,San Antonio Spurs,+1000,,,
+1994-95,Charlotte Hornets,+1000,,,
+1994-95,Golden State Warriors,+1200,,,
+1995-96,Chicago Bulls,+350,,,
+1997-98,Chicago Bulls,+140,,,
+1986-87,Portland Trail Blazers,+2800,,,
+1986-87,Cleveland Cavaliers,+3500,,,
+1986-87,San Antonio Spurs,+4000,,,
+1986-87,Los Angeles Clippers,+5000,,,
+1986-87,Golden State Warriors,+6000,,,
+1986-87,Sacramento Kings,+7500,,,
+1986-87,Chicago Bulls,+10000,,,
+1986-87,Indiana Pacers,+10000,,,
+1986-87,Phoenix Suns,+10000,,,
+1986-87,Seattle SuperSonics,+20000,,,
+1992-93,Dallas Mavericks,+30000,,,
+1992-93,Minnesota Timberwolves,+50000,,,
+1990-91,Houston Rockets,+3500,,,
+1990-91,Atlanta Hawks,+3500,,,
+1990-91,Indiana Pacers,+4000,,,
+1990-91,Golden State Warriors,+4000,,,
+1990-91,Los Angeles Clippers,+5000,,,
+1990-91,Washington Bullets,+7500,,,
+1990-91,Denver Nuggets,+7500,,,
+1990-91,Sacramento Kings,+10000,,,
+1990-91,New Jersey Nets,+30000,,,
+1990-91,Orlando Magic,+200000,,,
+1988-89,Utah Jazz,+1200,,,
+1988-89,Seattle SuperSonics,+1500,,,
+1988-89,Denver Nuggets,+2000,,,
+1988-89,Chicago Bulls,+2000,,,
+1988-89,Portland Trail Blazers,+2500,,,
+1988-89,New York Knicks,+3000,,,
+1988-89,Houston Rockets,+4000,,,
+1988-89,Indiana Pacers,+5000,,,
+1988-89,Milwaukee Bucks,+5000,,,
+1988-89,Golden State Warriors,+8000,,,
+1988-89,San Antonio Spurs,+8000,,,
+1993-94,Portland Trail Blazers,+1200,,,
+1993-94,Orlando Magic,+1400,,,
+1993-94,Chicago Bulls,+1500,,,
+1993-94,Utah Jazz,+2500,,,
+1993-94,New Jersey Nets,+2500,,,
+1993-94,Golden State Warriors,+3000,,,
+1993-94,Boston Celtics,+3500,,,
+1993-94,Miami Heat,+4000,,,
+1998-99,Utah Jazz,+350,,,
+1998-99,San Antonio Spurs,+450,,,
+1998-99,Indiana Pacers,+450,,,
+1998-99,New York Knicks,+500,,,
+1998-99,Miami Heat,+500,,,
+1998-99,Houston Rockets,+500,,,
+1998-99,Seattle SuperSonics,+1200,,,
+1998-99,Atlanta Hawks,+1500,,,
+1999-00,Los Angeles Lakers,+400,,,
+1999-00,San Antonio Spurs,+500,,,
+1999-00,New York Knicks,+800,,,
+1999-00,Utah Jazz,+800,,,
+1999-00,Miami Heat,+800,,,
+1999-00,Indiana Pacers,+1000,,,
+1999-00,Phoenix Suns,+1500,,,
+1991-92,Charlotte Hornets,+40000,,,
+1991-92,Orlando Magic,+50000,,,
+1991-92,Minnesota Timberwolves,+50000,,,
+1991-92,Denver Nuggets,+50000,,,
+2000-01,Portland Trail Blazers,+600,,,
+2000-01,San Antonio Spurs,+600,,,
+2000-01,New York Knicks,+700,,,
+2000-01,Orlando Magic,+800,,,
+2000-01,Indiana Pacers,+1000,,,
+2000-01,Utah Jazz,+1500,,,
+2000-01,Phoenix Suns,+1500,,,
+2000-01,Minnesota Timberwolves,+1500,,,
+2000-01,Miami Heat,+1800,,,
+2000-01,Philadelphia 76ers,+1800,,,
+2000-01,Charlotte Hornets,+1800,,,
+2001-02,San Antonio Spurs,+500,,,
+2001-02,Sacramento Kings,+1000,,,
+2001-02,Philadelphia 76ers,+1000,,,
+2001-02,Orlando Magic,+1000,,,
+2001-02,Milwaukee Bucks,+1000,,,
+2001-02,New York Knicks,+1200,,,
+2001-02,Miami Heat,+1200,,,
+2001-02,Toronto Raptors,+1500,,,
+2001-02,Dallas Mavericks,+1500,,,
+2001-02,Portland Trail Blazers,+1500,,,
+2001-02,Utah Jazz,+2000,,,
+2001-02,Charlotte Hornets,+2200,,,
+2001-02,Washington Wizards,+2500,,,
+2001-02,Minnesota Timberwolves,+2500,,,
+2002-03,Los Angeles Lakers,+180,58.5,50-32,under
+2003-04,Los Angeles Lakers,+140,58.5,56-26,under
+1996-97,Los Angeles Clippers,+10000,,,
+1996-97,Boston Celtics,+10000,,,
+1996-97,Minnesota Timberwolves,+15000,,,
+1996-97,Philadelphia 76ers,+20000,,,
+1996-97,Toronto Raptors,+30000,,,
+1996-97,Vancouver Grizzlies,+50000,,,
+1994-95,Chicago Bulls,+1200,,,
+1994-95,Utah Jazz,+1500,,,
+1994-95,Cleveland Cavaliers,+1500,,,
+1994-95,Indiana Pacers,+1500,,,
+1994-95,Atlanta Hawks,+1500,,,
+1994-95,Miami Heat,+2000,,,
+1994-95,Portland Trail Blazers,+2500,,,
+1994-95,New Jersey Nets,+2500,,,
+1994-95,Denver Nuggets,+3000,,,
+1994-95,Boston Celtics,+4000,,,
+1994-95,Philadelphia 76ers,+10000,,,
+1994-95,Los Angeles Lakers,+10000,,,
+1994-95,Los Angeles Clippers,+10000,,,
+1994-95,Washington Bullets,+10000,,,
+1994-95,Milwaukee Bucks,+15000,,,
+1994-95,Sacramento Kings,+15000,,,
+1994-95,Minnesota Timberwolves,+20000,,,
+1994-95,Detroit Pistons,+20000,,,
+1994-95,Dallas Mavericks,+25000,,,
+1995-96,Orlando Magic,+400,,,
+1995-96,Indiana Pacers,+600,,,
+1995-96,Houston Rockets,+700,,,
+1995-96,San Antonio Spurs,+700,,,
+1995-96,Phoenix Suns,+800,,,
+1995-96,Seattle SuperSonics,+800,,,
+1995-96,Utah Jazz,+1000,,,
+1995-96,New York Knicks,+1200,,,
+1995-96,Los Angeles Lakers,+1200,,,
+1995-96,Charlotte Hornets,+1800,,,
+1995-96,Golden State Warriors,+4000,,,
+1995-96,Portland Trail Blazers,+4000,,,
+1997-98,Utah Jazz,+600,,,
+1997-98,Los Angeles Lakers,+700,,,
+1997-98,Seattle SuperSonics,+800,,,
+1997-98,San Antonio Spurs,+800,,,
+1997-98,New York Knicks,+1000,,,
+1997-98,Houston Rockets,+1200,,,
+1997-98,Miami Heat,+1200,,,
+1997-98,Detroit Pistons,+1500,,,
+1997-98,Atlanta Hawks,+1500,,,
+1997-98,Charlotte Hornets,+1800,,,
+1997-98,Phoenix Suns,+1800,,,
+1997-98,Orlando Magic,+2000,,,
+1997-98,Portland Trail Blazers,+2500,,,
+1997-98,Indiana Pacers,+2500,,,
+1997-98,Washington Wizards,+2500,,,
+1997-98,Minnesota Timberwolves,+6000,,,
+1990-91,Minnesota Timberwolves,+200000,,,
+1990-91,Miami Heat,+200000,,,
+1990-91,Charlotte Hornets,+200000,,,
+1988-89,Los Angeles Clippers,+10000,,,
+1988-89,Philadelphia 76ers,+10000,,,
+1988-89,Phoenix Suns,+10000,,,
+1988-89,Washington Bullets,+15000,,,
+1988-89,Sacramento Kings,+15000,,,
+1988-89,New Jersey Nets,+20000,,,
+1988-89,Miami Heat,+50000,,,
+1988-89,Charlotte Hornets,+50000,,,
+1993-94,Indiana Pacers,+6000,,,
+1993-94,Detroit Pistons,+6000,,,
+1993-94,Atlanta Hawks,+6500,,,
+1993-94,Los Angeles Clippers,+7000,,,
+1993-94,Los Angeles Lakers,+7500,,,
+1993-94,Denver Nuggets,+10000,,,
+1993-94,Sacramento Kings,+17500,,,
+1993-94,Philadelphia 76ers,+20000,,,
+1993-94,Washington Bullets,+20000,,,
+1993-94,Minnesota Timberwolves,+30000,,,
+1993-94,Milwaukee Bucks,+30000,,,
+1993-94,Dallas Mavericks,+75000,,,
+1998-99,Phoenix Suns,+2500,,,
+1998-99,Orlando Magic,+3000,,,
+1998-99,Portland Trail Blazers,+3000,,,
+1998-99,Charlotte Hornets,+3000,,,
+1998-99,Detroit Pistons,+3500,,,
+1998-99,Cleveland Cavaliers,+4000,,,
+1998-99,Minnesota Timberwolves,+4000,,,
+1998-99,New Jersey Nets,+5000,,,
+1998-99,Washington Wizards,+6000,,,
+1998-99,Milwaukee Bucks,+6000,,,
+1998-99,Boston Celtics,+7500,,,
+1998-99,Philadelphia 76ers,+10000,,,
+1998-99,Chicago Bulls,+10000,,,
+1998-99,Golden State Warriors,+20000,,,
+2004-05,San Antonio Spurs,+400,,,
+1999-00,Houston Rockets,+1500,,,
+1999-00,Charlotte Hornets,+1500,,,
+1999-00,Atlanta Hawks,+1500,,,
+1999-00,Detroit Pistons,+3000,,,
+1999-00,Sacramento Kings,+3000,,,
+1999-00,Milwaukee Bucks,+3500,,,
+1999-00,Cleveland Cavaliers,+4000,,,
+1999-00,Minnesota Timberwolves,+4000,,,
+1999-00,New Jersey Nets,+4000,,,
+1999-00,Philadelphia 76ers,+4000,,,
+1999-00,Seattle SuperSonics,+5000,,,
+1999-00,Toronto Raptors,+6000,,,
+1999-00,Washington Wizards,+7500,,,
+1999-00,Orlando Magic,+10000,,,
+2005-06,San Antonio Spurs,+250,58.5,63-19,over
+2000-01,Milwaukee Bucks,+2200,,,
+2000-01,Sacramento Kings,+3500,,,
+2000-01,Seattle SuperSonics,+3500,,,
+2000-01,Toronto Raptors,+3500,,,
+2000-01,Detroit Pistons,+6000,,,
+2000-01,Houston Rockets,+7500,,,
+2000-01,Dallas Mavericks,+7500,,,
+2000-01,New Jersey Nets,+7500,,,
+2000-01,Chicago Bulls,+7500,,,
+2000-01,Boston Celtics,+10000,,,
+2000-01,Denver Nuggets,+10000,,,
+2000-01,Cleveland Cavaliers,+10000,,,
+2000-01,Atlanta Hawks,+15000,,,
+2001-02,Los Angeles Clippers,+2500,,,
+2001-02,Indiana Pacers,+3000,,,
+2001-02,Phoenix Suns,+3000,,,
+2001-02,Houston Rockets,+4500,,,
+2001-02,Detroit Pistons,+5000,,,
+2001-02,Seattle SuperSonics,+5000,,,
+2001-02,Boston Celtics,+5000,,,
+2001-02,New Jersey Nets,+6000,,,
+2001-02,Memphis Grizzlies,+8000,,,
+2001-02,Denver Nuggets,+8000,,,
+2002-03,Sacramento Kings,+300,57.5,59-23,over
+2002-03,Dallas Mavericks,+800,57.5,60-22,over
+2002-03,San Antonio Spurs,+1100,55.5,60-22,over
+2002-03,New Jersey Nets,+1100,50.5,49-33,under
+2002-03,Orlando Magic,+1300,48.0,42-40,under
+2002-03,Boston Celtics,+1400,48.0,44-38,under
+2002-03,New Orleans Hornets,+1600,48.0,47-35,under
+2002-03,Toronto Raptors,+2000,45.0,24-58,under
+2002-03,Detroit Pistons,+2000,42.0,50-32,over
+2002-03,Portland Trail Blazers,+2000,49.0,50-32,over
+2002-03,Philadelphia 76ers,+2000,46.0,48-34,over
+2002-03,Minnesota Timberwolves,+2000,46.0,51-31,over
+2003-04,San Antonio Spurs,+400,57.5,57-25,under
+2003-04,Sacramento Kings,+500,55.5,55-27,under
+2003-04,Dallas Mavericks,+700,57.5,52-30,under
+2003-04,New Jersey Nets,+800,51.5,47-35,under
+2003-04,Minnesota Timberwolves,+1200,54.5,58-24,over
+2003-04,Detroit Pistons,+1500,49.5,54-28,over
+2003-04,Indiana Pacers,+1500,47.5,61-21,over
+1995-96,Denver Nuggets,+4000,,,
+1995-96,Dallas Mavericks,+4000,,,
+1995-96,Milwaukee Bucks,+5000,,,
+1995-96,Washington Bullets,+5000,,,
+1995-96,Atlanta Hawks,+5000,,,
+1995-96,Cleveland Cavaliers,+5000,,,
+1995-96,Sacramento Kings,+6000,,,
+1995-96,Detroit Pistons,+6000,,,
+1995-96,New Jersey Nets,+7500,,,
+1995-96,Philadelphia 76ers,+7500,,,
+1995-96,Miami Heat,+7500,,,
+1997-98,Cleveland Cavaliers,+6000,,,
+1997-98,Milwaukee Bucks,+7500,,,
+1997-98,Philadelphia 76ers,+10000,,,
+1997-98,Los Angeles Clippers,+10000,,,
+1997-98,Toronto Raptors,+10000,,,
+1997-98,Dallas Mavericks,+10000,,,
+1997-98,Boston Celtics,+10000,,,
+1997-98,New Jersey Nets,+15000,,,
+1997-98,Sacramento Kings,+15000,,,
+1997-98,Golden State Warriors,+15000,,,
+1997-98,Denver Nuggets,+20000,,,
+1997-98,Vancouver Grizzlies,+30000,,,
+1998-99,Sacramento Kings,+20000,,,
+1998-99,Dallas Mavericks,+20000,,,
+1998-99,Los Angeles Clippers,+30000,,,
+1998-99,Denver Nuggets,+30000,,,
+1998-99,Toronto Raptors,+30000,,,
+1998-99,Vancouver Grizzlies,+30000,,,
+2004-05,Sacramento Kings,+500,,,
+2004-05,Minnesota Timberwolves,+500,,,
+2004-05,Los Angeles Lakers,+500,,,
+2004-05,Memphis Grizzlies,+900,,,
+2004-05,Detroit Pistons,+900,,,
+2004-05,Indiana Pacers,+1200,,,
+2004-05,Dallas Mavericks,+1600,,,
+2004-05,Houston Rockets,+1800,,,
+2004-05,New Jersey Nets,+1800,,,
+2004-05,Miami Heat,+2200,,,
+2004-05,Denver Nuggets,+2500,,,
+2004-05,New Orleans Hornets,+3500,,,
+1999-00,Golden State Warriors,+10000,,,
+1999-00,Boston Celtics,+10000,,,
+1999-00,Dallas Mavericks,+15000,,,
+1999-00,Denver Nuggets,+20000,,,
+1999-00,Chicago Bulls,+20000,,,
+1999-00,Los Angeles Clippers,+25000,,,
+1999-00,Vancouver Grizzlies,+25000,,,
+2005-06,Miami Heat,+350,58.0,52-30,under
+2005-06,Phoenix Suns,+800,43.5,54-28,over
+2005-06,Detroit Pistons,+1000,51.5,64-18,over
+2005-06,Denver Nuggets,+1200,50.5,44-38,under
+2005-06,Dallas Mavericks,+1300,52.5,60-22,over
+2005-06,Houston Rockets,+1500,53.0,34-48,under
+2005-06,Indiana Pacers,+1600,52.5,41-41,under
+2005-06,Sacramento Kings,+1800,49.5,44-38,under
+2005-06,Minnesota Timberwolves,+1800,44.0,33-49,under
+2005-06,Cleveland Cavaliers,+1800,49.5,50-32,over
+2005-06,Seattle SuperSonics,+1800,43.0,35-47,under
+2005-06,Los Angeles Lakers,+2500,41.5,45-37,over
+2005-06,Philadelphia 76ers,+2500,42.5,38-44,under
+2005-06,New Jersey Nets,+2500,47.0,49-33,over
+2005-06,Boston Celtics,+3000,40.5,33-49,under
+2005-06,Washington Wizards,+3000,40.0,42-40,over
+2000-01,Washington Wizards,+20000,,,
+2000-01,Los Angeles Clippers,+35000,,,
+2000-01,Golden State Warriors,+35000,,,
+2000-01,Vancouver Grizzlies,+35000,,,
+2001-02,Atlanta Hawks,+10000,,,
+2001-02,Cleveland Cavaliers,+12000,,,
+2001-02,Chicago Bulls,+15000,,,
+2001-02,Golden State Warriors,+25000,,,
+2006-07,Dallas Mavericks,+400,56.0,67-15,over
+2002-03,Washington Wizards,+2500,41.5,37-45,under
+2002-03,Indiana Pacers,+2500,43.0,48-34,over
+2002-03,Milwaukee Bucks,+3000,43.0,42-40,under
+2002-03,Miami Heat,+3500,35.0,25-57,under
+2002-03,Los Angeles Clippers,+4500,42.0,27-55,under
+2002-03,New York Knicks,+4500,29.5,37-45,over
+2002-03,Houston Rockets,+4500,40.5,43-39,over
+2002-03,Seattle SuperSonics,+5000,41.0,40-42,under
+2002-03,Utah Jazz,+5000,39.0,47-35,over
+2002-03,Phoenix Suns,+6000,35.5,44-38,over
+2002-03,Atlanta Hawks,+7000,42.0,35-47,under
+2003-04,Philadelphia 76ers,+1800,46.5,33-49,under
+2003-04,New Orleans Hornets,+1800,46.5,41-41,under
+2003-04,Orlando Magic,+2000,44.5,21-61,under
+2003-04,Portland Trail Blazers,+2500,44.5,41-41,under
+2003-04,Phoenix Suns,+2500,45.5,29-53,under
+2003-04,Houston Rockets,+3500,47.5,45-37,under
+2003-04,Toronto Raptors,+3500,38.5,33-49,under
+2003-04,Boston Celtics,+3500,43.5,36-46,under
+2003-04,New York Knicks,+5000,33.5,39-43,over
+1995-96,Boston Celtics,+7500,,,
+1995-96,Minnesota Timberwolves,+25000,,,
+1995-96,Los Angeles Clippers,+25000,,,
+1995-96,Toronto Raptors,+75000,,,
+1995-96,Vancouver Grizzlies,+75000,,,
+2004-05,Philadelphia 76ers,+3500,,,
+2004-05,Milwaukee Bucks,+4000,,,
+2004-05,Cleveland Cavaliers,+4000,,,
+2004-05,Boston Celtics,+5000,,,
+2004-05,Utah Jazz,+5000,,,
+2004-05,Golden State Warriors,+5000,,,
+2004-05,Portland Trail Blazers,+5500,,,
+2004-05,Toronto Raptors,+5500,,,
+2004-05,Seattle SuperSonics,+7000,,,
+2007-08,Dallas Mavericks,+450,56.5,51-31,under
+2005-06,Chicago Bulls,+3000,43.0,41-41,under
+2005-06,Memphis Grizzlies,+3500,42.5,49-33,over
+2005-06,New York Knicks,+5000,41.5,23-59,under
+2005-06,Golden State Warriors,+6000,41.5,34-48,under
+2005-06,Orlando Magic,+7000,34.5,36-46,over
+2005-06,Los Angeles Clippers,+7000,38.5,47-35,over
+2005-06,Milwaukee Bucks,+8000,35.5,40-42,over
+2005-06,Toronto Raptors,+8000,28.5,27-55,under
+2005-06,Portland Trail Blazers,+10000,28.5,21-61,under
+2005-06,Utah Jazz,+10000,34.0,41-41,over
+2005-06,Charlotte Bobcats,+25000,21.0,26-56,over
+2005-06,Atlanta Hawks,+30000,21.5,26-56,over
+2006-07,San Antonio Spurs,+450,56.0,58-24,over
+2006-07,Phoenix Suns,+600,55.0,61-21,over
+2006-07,Miami Heat,+600,51.5,44-38,under
+2006-07,Detroit Pistons,+800,51.5,53-29,over
+2006-07,Cleveland Cavaliers,+900,48.0,50-32,over
+2006-07,New Jersey Nets,+1500,46.5,41-41,under
+2006-07,Chicago Bulls,+1800,48.0,49-33,over
+2006-07,Houston Rockets,+2000,45.5,52-30,over
+2006-07,Los Angeles Clippers,+2500,47.0,40-42,under
+2002-03,Chicago Bulls,+20000,30.0,30-52,over
+2002-03,Memphis Grizzlies,+25000,30.0,28-54,under
+2002-03,Cleveland Cavaliers,+25000,23.5,17-65,under
+2002-03,Golden State Warriors,+30000,25.0,38-44,over
+2002-03,Denver Nuggets,+30000,19.5,17-65,under
+2003-04,Seattle SuperSonics,+6000,36.5,37-45,over
+2003-04,Miami Heat,+6000,35.0,42-40,over
+2003-04,Atlanta Hawks,+6000,33.0,28-54,under
+2003-04,Washington Wizards,+7500,29.5,25-57,under
+2003-04,Milwaukee Bucks,+7500,31.5,41-41,over
+2003-04,Cleveland Cavaliers,+7500,29.5,35-47,over
+2003-04,Utah Jazz,+8000,25.5,42-40,over
+2004-05,Orlando Magic,+7500,,,
+2004-05,New York Knicks,+10000,,,
+2004-05,Phoenix Suns,+10000,,,
+2004-05,Washington Wizards,+12500,,,
+2004-05,Los Angeles Clippers,+17500,,,
+2004-05,Chicago Bulls,+17500,,,
+2004-05,Atlanta Hawks,+17500,,,
+2007-08,San Antonio Spurs,+450,54.5,56-26,over
+2007-08,Phoenix Suns,+500,55.5,55-27,under
+2007-08,Cleveland Cavaliers,+600,49.5,45-37,under
+2007-08,Boston Celtics,+1000,49.5,66-16,over
+2007-08,Chicago Bulls,+1000,50.5,33-49,under
+2007-08,Houston Rockets,+1000,53.5,55-27,over
+2007-08,Detroit Pistons,+1200,50.5,59-23,over
+2005-06,New Orleans/Oklahoma City Hornets,+40000,21.5,38-44,over
+2008-09,Boston Celtics,+350,53.5,62-20,over
+2006-07,Los Angeles Lakers,+3500,42.5,42-40,under
+2006-07,Sacramento Kings,+3500,44.0,33-49,under
+2006-07,Memphis Grizzlies,+4500,40.0,22-60,under
+2006-07,Denver Nuggets,+4500,41.5,45-37,over
+2006-07,Indiana Pacers,+5000,44.5,35-47,under
+2006-07,Washington Wizards,+6500,39.0,41-41,over
+2006-07,Milwaukee Bucks,+8000,42.0,28-54,under
+2006-07,Utah Jazz,+8000,39.0,51-31,over
+2006-07,Boston Celtics,+8000,35.0,24-58,under
+2006-07,New Orleans/Oklahoma City Hornets,+10000,40.5,39-43,under
+2006-07,Minnesota Timberwolves,+10000,36.0,32-50,under
+2006-07,Golden State Warriors,+10000,35.0,42-40,over
+2006-07,Seattle SuperSonics,+10000,35.5,31-51,under
+2006-07,Toronto Raptors,+10000,32.5,47-35,over
+2006-07,Philadelphia 76ers,+12000,35.5,35-47,under
+2006-07,Orlando Magic,+15000,37.0,40-42,over
+2006-07,New York Knicks,+20000,30.5,33-49,over
+2006-07,Atlanta Hawks,+20000,28.0,30-52,over
+2006-07,Portland Trail Blazers,+50000,24.0,32-50,over
+2003-04,Denver Nuggets,+10000,27.5,43-39,over
+2003-04,Golden State Warriors,+15000,31.5,37-45,over
+2003-04,Chicago Bulls,+15000,36.5,23-59,under
+2003-04,Memphis Grizzlies,+20000,31.5,50-32,over
+2003-04,Los Angeles Clippers,+25000,30.5,28-54,under
+2004-05,Charlotte Bobcats,+40000,,,
+2007-08,Miami Heat,+1200,46.5,15-67,under
+2007-08,Utah Jazz,+1500,47.5,54-28,over
+2007-08,Denver Nuggets,+1500,48.5,50-32,over
+2007-08,Golden State Warriors,+2000,42.5,48-34,over
+2007-08,Toronto Raptors,+2000,41.5,41-41,under
+2007-08,Washington Wizards,+2500,39.5,43-39,over
+2007-08,New Jersey Nets,+2500,43.5,34-48,under
+2007-08,Los Angeles Lakers,+3000,43.5,57-25,over
+2007-08,Orlando Magic,+4000,47.5,52-30,over
+2007-08,Indiana Pacers,+4000,30.5,36-46,over
+2007-08,New Orleans Hornets,+5000,37.5,56-26,over
+2007-08,Sacramento Kings,+5000,34.5,38-44,over
+2007-08,Los Angeles Clippers,+5000,30.5,23-59,under
+2008-09,Los Angeles Lakers,+350,54.5,65-17,over
+2008-09,San Antonio Spurs,+800,48.5,54-28,over
+2008-09,New Orleans Hornets,+1000,51.5,49-33,under
+2008-09,Detroit Pistons,+1000,50.5,39-43,under
+2008-09,Cleveland Cavaliers,+1000,47.5,66-16,over
+2008-09,Houston Rockets,+1200,53.5,53-29,under
+2006-07,Charlotte Bobcats,+50000,32.0,33-49,over
+2009-10,Los Angeles Lakers,+225,62.0,57-25,under
+2007-08,New York Knicks,+6000,37.5,23-59,under
+2007-08,Milwaukee Bucks,+7500,35.5,26-56,under
+2007-08,Seattle SuperSonics,+7500,27.5,20-62,under
+2007-08,Portland Trail Blazers,+8000,30.5,41-41,over
+2007-08,Charlotte Bobcats,+12500,35.5,32-50,under
+2007-08,Atlanta Hawks,+12500,38.5,37-45,under
+2007-08,Minnesota Timberwolves,+15000,19.5,22-60,over
+2007-08,Philadelphia 76ers,+15000,32.5,40-42,over
+2007-08,Memphis Grizzlies,+20000,32.5,22-60,under
+2008-09,Utah Jazz,+1200,51.5,48-34,under
+2008-09,Phoenix Suns,+1500,46.5,46-36,under
+2008-09,Dallas Mavericks,+2000,46.5,50-32,over
+2008-09,Orlando Magic,+2000,47.5,59-23,over
+2008-09,Philadelphia 76ers,+2500,48.5,41-41,under
+2008-09,Chicago Bulls,+3000,40.5,41-41,over
+2008-09,Portland Trail Blazers,+3000,44.5,54-28,over
+2010-11,Miami Heat,+175,64.5,58-24,under
+2009-10,Cleveland Cavaliers,+300,61.5,61-21,under
+2009-10,Boston Celtics,+450,56.5,50-32,under
+2009-10,San Antonio Spurs,+1000,54.5,50-32,under
+2009-10,Orlando Magic,+1000,57.5,59-23,over
+2009-10,Denver Nuggets,+1500,52.5,53-29,over
+2009-10,Portland Trail Blazers,+2000,52.5,50-32,under
+2009-10,Dallas Mavericks,+2500,48.5,55-27,over
+2009-10,Utah Jazz,+2500,49.5,53-29,over
+2009-10,Detroit Pistons,+3300,41.5,27-55,under
+2009-10,Houston Rockets,+4000,35.5,42-40,over
+2009-10,Miami Heat,+4000,40.0,47-35,over
+2009-10,Atlanta Hawks,+5000,44.5,53-29,over
+2009-10,Chicago Bulls,+5000,40.5,41-41,over
+2009-10,New Orleans Hornets,+5000,46.5,37-45,under
+2009-10,New York Knicks,+6600,31.5,29-53,under
+2009-10,Philadelphia 76ers,+6600,40.5,27-55,under
+2009-10,Phoenix Suns,+6600,40.5,54-28,over
+2009-10,Toronto Raptors,+6600,40.5,40-42,under
+2009-10,Washington Wizards,+8000,41.5,26-56,under
+2009-10,Indiana Pacers,+10000,34.5,32-50,under
+2009-10,Oklahoma City Thunder,+12500,33.5,50-32,over
+2009-10,New Jersey Nets,+12500,27.5,12-70,under
+2009-10,Golden State Warriors,+12500,34.5,26-56,under
+2008-09,Toronto Raptors,+3500,47.5,33-49,under
+2008-09,Miami Heat,+3500,37.5,43-39,over
+2008-09,Denver Nuggets,+5000,40.5,54-28,over
+2008-09,Washington Wizards,+6000,38.5,19-63,under
+2008-09,Los Angeles Clippers,+8000,34.5,19-63,under
+2008-09,New Jersey Nets,+10000,27.5,34-48,over
+2008-09,New York Knicks,+10000,32.5,32-50,under
+2008-09,Indiana Pacers,+10000,35.5,36-46,over
+2008-09,Golden State Warriors,+10000,37.5,29-53,under
+2008-09,Atlanta Hawks,+10000,36.5,47-35,over
+2008-09,Charlotte Bobcats,+12500,36.5,35-47,under
+2008-09,Minnesota Timberwolves,+15000,30.5,24-58,under
+2008-09,Milwaukee Bucks,+15000,30.5,34-48,over
+2008-09,Oklahoma City Thunder,+20000,25.5,23-59,under
+2008-09,Sacramento Kings,+20000,28.5,17-65,under
+2008-09,Memphis Grizzlies,+25000,22.5,24-58,over
+2010-11,Los Angeles Lakers,+250,56.5,57-25,over
+2010-11,Boston Celtics,+1000,52.5,56-26,over
+2010-11,Orlando Magic,+1000,54.5,52-30,under
+2010-11,Chicago Bulls,+1400,46.5,62-20,over
+2010-11,Oklahoma City Thunder,+1600,51.5,55-27,over
+2010-11,Dallas Mavericks,+2000,49.5,57-25,over
+2010-11,San Antonio Spurs,+2500,49.5,61-21,over
+2010-11,Denver Nuggets,+2500,43.5,50-32,over
+2010-11,Portland Trail Blazers,+2800,51.5,48-34,under
+2010-11,Milwaukee Bucks,+4000,45.5,35-47,under
+2009-10,Charlotte Bobcats,+12500,36.5,44-38,over
+2009-10,Memphis Grizzlies,+15000,27.5,40-42,over
+2009-10,Los Angeles Clippers,+15000,34.5,29-53,under
+2009-10,Minnesota Timberwolves,+20000,26.5,15-67,under
+2009-10,Milwaukee Bucks,+20000,26.5,46-36,over
+2009-10,Sacramento Kings,+25000,24.5,25-57,over
+2011-12,Miami Heat,+225,47.5,46-20,under
+2010-11,Utah Jazz,+4000,49.5,39-43,under
+2010-11,New York Knicks,+4000,35.5,42-40,over
+2010-11,Atlanta Hawks,+4000,46.5,44-38,under
+2010-11,Houston Rockets,+4000,48.5,43-39,under
+2010-11,Phoenix Suns,+5000,41.5,40-42,under
+2010-11,Washington Wizards,+5000,32.5,23-59,under
+2010-11,New Orleans Hornets,+6600,41.5,46-36,over
+2010-11,Charlotte Bobcats,+6600,39.5,34-48,under
+2010-11,Memphis Grizzlies,+10000,38.5,46-36,over
+2010-11,Los Angeles Clippers,+10000,36.5,32-50,under
+2010-11,New Jersey Nets,+10000,24.5,24-58,under
+2010-11,Philadelphia 76ers,+10000,34.5,41-41,over
+2010-11,Detroit Pistons,+10000,30.5,30-52,under
+2011-12,Los Angeles Lakers,+450,42.5,41-25,under
+2011-12,Chicago Bulls,+550,47.5,50-16,over
+2011-12,Oklahoma City Thunder,+700,46.5,47-19,over
+2011-12,Dallas Mavericks,+850,44.5,36-30,under
+2011-12,Boston Celtics,+1600,40.5,39-27,under
+2011-12,New York Knicks,+1600,41.5,36-30,under
+2011-12,Los Angeles Clippers,+2000,42.5,40-26,under
+2011-12,Memphis Grizzlies,+2500,37.5,41-25,over
+2011-12,Orlando Magic,+2500,37.5,37-29,under
+2011-12,Portland Trail Blazers,+3300,37.5,28-38,under
+2011-12,San Antonio Spurs,+3300,40.5,50-16,over
+2012-13,Miami Heat,+225,60.5,66-16,over
+2010-11,Cleveland Cavaliers,+10000,30.5,19-63,under
+2010-11,Indiana Pacers,+15000,33.5,37-45,over
+2010-11,Golden State Warriors,+15000,30.5,36-46,over
+2010-11,Sacramento Kings,+15000,27.5,24-58,under
+2010-11,Minnesota Timberwolves,+20000,23.5,17-65,under
+2010-11,Toronto Raptors,+20000,26.5,22-60,under
+2011-12,New Jersey Nets,+4000,27.5,22-44,under
+2011-12,Atlanta Hawks,+5000,34.5,40-26,over
+2011-12,Houston Rockets,+6600,33.5,34-32,over
+2011-12,Indiana Pacers,+6600,36.5,42-24,over
+2011-12,Denver Nuggets,+6600,36.5,38-28,over
+2011-12,Phoenix Suns,+10000,29.5,33-33,over
+2011-12,Utah Jazz,+10000,25.5,36-30,over
+2011-12,Philadelphia 76ers,+12500,36.5,35-31,under
+2012-13,Los Angeles Lakers,+275,58.5,45-37,under
+2012-13,Oklahoma City Thunder,+450,60.5,60-22,under
+2013-14,Miami Heat,+200,61.5,54-28,under
+2011-12,Milwaukee Bucks,+12500,31.5,31-35,under
+2011-12,Golden State Warriors,+12500,29.5,23-43,under
+2011-12,New Orleans Hornets,+15000,25.5,21-45,under
+2011-12,Washington Wizards,+15000,20.5,20-46,under
+2011-12,Minnesota Timberwolves,+20000,23.5,26-40,over
+2011-12,Detroit Pistons,+20000,21.5,25-41,over
+2011-12,Sacramento Kings,+20000,20.5,22-44,over
+2011-12,Cleveland Cavaliers,+20000,17.5,21-45,over
+2011-12,Charlotte Bobcats,+20000,19.5,7-59,under
+2011-12,Toronto Raptors,+25000,16.5,23-43,over
+2012-13,Chicago Bulls,+1200,47.5,45-37,under
+2012-13,San Antonio Spurs,+1600,54.5,58-24,over
+2012-13,Boston Celtics,+2000,51.5,41-40,under
+2012-13,Los Angeles Clippers,+2200,49.5,56-26,over
+2012-13,Brooklyn Nets,+2800,44.5,49-33,over
+2012-13,Indiana Pacers,+3300,51.5,49-32,under
+2012-13,Memphis Grizzlies,+3300,48.5,56-26,over
+2013-14,Oklahoma City Thunder,+550,51.5,59-23,over
+2013-14,Chicago Bulls,+1000,56.5,48-34,under
+2013-14,Brooklyn Nets,+1200,52.5,44-38,under
+2013-14,Houston Rockets,+1200,54.5,54-28,under
+2013-14,San Antonio Spurs,+1200,55.5,62-20,over
+2013-14,Los Angeles Clippers,+1400,57.5,57-25,under
+2013-14,Indiana Pacers,+1400,54.5,56-26,over
+2013-14,New York Knicks,+2200,50.0,37-45,under
+2014-15,Cleveland Cavaliers,+275,58.5,53-29,under
+2015-16,Cleveland Cavaliers,+280,56.5,57-25,over
+2012-13,Dallas Mavericks,+3300,44.5,41-41,under
+2012-13,New York Knicks,+3300,46.5,54-28,over
+2012-13,Denver Nuggets,+5000,49.5,57-25,over
+2012-13,Philadelphia 76ers,+5000,47.5,34-48,under
+2012-13,Houston Rockets,+6600,31.5,45-37,over
+2012-13,Atlanta Hawks,+8000,42.5,44-38,over
+2012-13,Minnesota Timberwolves,+8000,39.5,31-51,under
+2012-13,Utah Jazz,+10000,42.5,43-39,over
+2012-13,Portland Trail Blazers,+10000,34.5,33-49,under
+2012-13,Milwaukee Bucks,+10000,36.5,38-44,over
+2012-13,New Orleans Hornets,+15000,26.5,27-55,over
+2013-14,Golden State Warriors,+2500,51.0,51-31,over
+2013-14,Los Angeles Lakers,+2500,36.5,27-55,under
+2013-14,Memphis Grizzlies,+2800,50.5,50-32,under
+2013-14,Denver Nuggets,+3300,46.5,36-46,under
+2013-14,Dallas Mavericks,+4000,43.5,49-33,over
+2013-14,Cleveland Cavaliers,+6600,40.5,33-49,under
+2013-14,Atlanta Hawks,+6600,39.5,38-44,under
+2013-14,Utah Jazz,+8000,26.5,25-57,under
+2013-14,Portland Trail Blazers,+8000,38.5,54-28,over
+2013-14,Philadelphia 76ers,+10000,16.5,19-63,over
+2014-15,San Antonio Spurs,+350,57.0,55-27,under
+2014-15,Oklahoma City Thunder,+600,53.0,45-37,under
+2014-15,Chicago Bulls,+700,55.5,50-32,under
+2014-15,Los Angeles Clippers,+900,56.5,56-26,under
+2014-15,Houston Rockets,+2200,49.0,56-26,over
+2014-15,Dallas Mavericks,+2500,49.5,50-32,over
+2014-15,Golden State Warriors,+2800,52.5,67-15,over
+2014-15,Washington Wizards,+3000,48.5,46-36,under
+2014-15,Miami Heat,+4500,44.0,37-45,under
+2014-15,Toronto Raptors,+5000,48.5,49-33,over
+2014-15,Portland Trail Blazers,+5000,49.0,51-31,over
+2014-15,Memphis Grizzlies,+5500,48.5,55-27,over
+2014-15,New York Knicks,+5500,40.0,17-65,under
+2014-15,Brooklyn Nets,+6000,41.5,38-44,under
+2014-15,New Orleans Pelicans,+7500,43.0,45-37,over
+2015-16,Golden State Warriors,+480,59.5,73-9,over
+2015-16,San Antonio Spurs,+500,56.5,67-15,over
+2015-16,Oklahoma City Thunder,+750,57.5,55-27,under
+2015-16,Los Angeles Clippers,+1200,56.5,53-29,under
+2015-16,Houston Rockets,+1500,56.5,41-41,under
+2015-16,Chicago Bulls,+1600,50.5,42-40,under
+2015-16,New Orleans Pelicans,+3300,45.0,30-52,under
+2015-16,Memphis Grizzlies,+3300,50.5,42-40,under
+2015-16,Atlanta Hawks,+3600,49.5,48-34,under
+2012-13,Phoenix Suns,+15000,33.5,25-57,under
+2012-13,Orlando Magic,+15000,23.5,20-62,under
+2012-13,Golden State Warriors,+15000,35.5,47-35,over
+2012-13,Cleveland Cavaliers,+20000,31.5,24-58,under
+2012-13,Detroit Pistons,+20000,32.5,29-53,under
+2012-13,Washington Wizards,+20000,27.5,29-53,over
+2012-13,Sacramento Kings,+25000,29.5,28-54,under
+2012-13,Toronto Raptors,+25000,32.5,34-48,over
+2012-13,Charlotte Bobcats,+50000,19.5,21-61,over
+2013-14,Washington Wizards,+10000,39.5,44-38,over
+2013-14,New Orleans Pelicans,+10000,39.0,34-48,under
+2013-14,Minnesota Timberwolves,+10000,40.5,40-42,under
+2013-14,Boston Celtics,+10000,28.5,25-57,under
+2013-14,Detroit Pistons,+12500,40.5,29-53,under
+2013-14,Milwaukee Bucks,+15000,28.5,15-67,under
+2013-14,Sacramento Kings,+15000,31.5,28-54,under
+2013-14,Toronto Raptors,+15000,35.5,48-34,over
+2013-14,Phoenix Suns,+20000,20.5,48-34,over
+2013-14,Orlando Magic,+30000,23.5,23-59,under
+2013-14,Charlotte Bobcats,+30000,26.0,43-39,over
+2016-17,Golden State Warriors,-128,66.5,67-15,over
+2014-15,Indiana Pacers,+8000,33.5,38-44,over
+2014-15,Charlotte Hornets,+8500,45.0,33-49,under
+2014-15,Phoenix Suns,+8500,44.0,39-43,under
+2014-15,Los Angeles Lakers,+10000,29.0,21-61,under
+2014-15,Atlanta Hawks,+12500,42.5,60-22,over
+2014-15,Denver Nuggets,+12500,42.0,30-52,under
+2014-15,Boston Celtics,+15000,27.0,40-42,over
+2014-15,Minnesota Timberwolves,+25000,29.0,16-66,under
+2014-15,Detroit Pistons,+25000,36.0,32-50,under
+2014-15,Orlando Magic,+25000,26.5,25-57,under
+2014-15,Milwaukee Bucks,+25000,24.5,41-41,over
+2014-15,Sacramento Kings,+25000,29.5,29-53,under
+2014-15,Utah Jazz,+25000,27.0,38-44,over
+2014-15,Philadelphia 76ers,+50000,16.0,18-64,over
+2015-16,Miami Heat,+4000,46.5,48-34,over
+2015-16,Washington Wizards,+5500,45.5,41-41,under
+2015-16,Toronto Raptors,+6600,46.5,56-26,over
+2015-16,Milwaukee Bucks,+6800,42.5,33-49,under
+2015-16,Indiana Pacers,+9000,41.5,45-37,over
+2015-16,Dallas Mavericks,+12000,36.5,42-40,over
+2015-16,Utah Jazz,+15000,42.5,40-42,under
+2015-16,Boston Celtics,+15500,45.5,48-34,over
+2015-16,Los Angeles Lakers,+20000,28.5,17-65,under
+2017-18,Golden State Warriors,-187,67.5,58-24,under
+2016-17,Cleveland Cavaliers,+385,56.5,51-31,under
+2016-17,San Antonio Spurs,+925,57.5,61-21,over
+2016-17,Boston Celtics,+2900,52.5,53-29,over
+2016-17,Los Angeles Clippers,+3500,53.5,51-31,under
+2016-17,Toronto Raptors,+5500,50.5,51-31,over
+2016-17,Oklahoma City Thunder,+6000,45.0,47-35,over
+2016-17,New York Knicks,+7500,38.5,31-51,under
+2016-17,Indiana Pacers,+8000,44.5,42-40,under
+2016-17,Memphis Grizzlies,+8800,42.5,43-39,over
+2016-17,Chicago Bulls,+9000,39.0,41-41,over
+2016-17,Utah Jazz,+10000,47.5,51-31,over
+2016-17,Atlanta Hawks,+10000,43.5,43-39,under
+2016-17,Minnesota Timberwolves,+10000,41.5,31-51,under
+2016-17,Portland Trail Blazers,+13000,45.5,41-41,under
+2016-17,Detroit Pistons,+14000,44.5,37-45,under
+2016-17,New Orleans Pelicans,+14500,36.5,34-48,under
+2016-17,Washington Wizards,+16000,42.5,49-33,over
+2016-17,Houston Rockets,+16000,44.0,55-27,over
+2016-17,Miami Heat,+17500,34.5,41-41,over
+2016-17,Milwaukee Bucks,+18000,34.5,42-40,over
+2016-17,Orlando Magic,+22500,37.5,29-53,under
+2015-16,New York Knicks,+24000,29.5,32-50,over
+2015-16,Detroit Pistons,+25000,36.5,44-38,over
+2015-16,Phoenix Suns,+30000,36.5,23-59,under
+2015-16,Portland Trail Blazers,+30000,28.5,44-38,over
+2015-16,Sacramento Kings,+30000,36.0,33-49,under
+2015-16,Brooklyn Nets,+30000,27.5,21-61,under
+2017-18,Cleveland Cavaliers,+515,53.5,50-32,under
+2017-18,Boston Celtics,+1200,53.5,55-27,over
+2017-18,San Antonio Spurs,+1800,55.0,47-35,under
+2017-18,Oklahoma City Thunder,+2150,53.5,48-34,under
+2017-18,Houston Rockets,+2150,55.5,65-17,over
+2017-18,Minnesota Timberwolves,+5000,48.5,47-35,under
+2017-18,Milwaukee Bucks,+8000,47.5,44-38,under
+2018-19,Golden State Warriors,-168,62.5,57-25,under
+2016-17,Los Angeles Lakers,+39000,24.5,26-56,over
+2016-17,Dallas Mavericks,+39000,39.5,33-49,under
+2016-17,Philadelphia 76ers,+50000,23.5,28-54,over
+2016-17,Sacramento Kings,+50000,33.5,32-50,under
+2016-17,Denver Nuggets,+50000,37.0,40-42,over
+2016-17,Charlotte Hornets,+55000,42.5,36-46,under
+2016-17,Phoenix Suns,+85000,29.5,24-58,under
+2016-17,Brooklyn Nets,+135000,21.5,20-62,under
+2015-16,Minnesota Timberwolves,+30000,27.5,29-53,over
+2015-16,Denver Nuggets,+30000,27.5,33-49,over
+2015-16,Charlotte Hornets,+35000,34.0,48-34,over
+2015-16,Orlando Magic,+50000,34.5,35-47,over
+2015-16,Philadelphia 76ers,+100000,20.5,10-72,under
+2017-18,Washington Wizards,+9000,48.5,43-39,under
+2017-18,Toronto Raptors,+15000,48.5,59-23,over
+2017-18,Los Angeles Clippers,+19000,43.5,42-40,under
+2017-18,Philadelphia 76ers,+19000,39.5,52-30,over
+2017-18,Denver Nuggets,+20000,45.5,46-36,over
+2017-18,New Orleans Pelicans,+22000,39.5,48-34,over
+2017-18,Miami Heat,+24000,43.5,44-38,over
+2018-19,Boston Celtics,+620,59.0,49-33,under
+2018-19,Houston Rockets,+1000,56.5,53-29,under
+2018-19,Los Angeles Lakers,+1800,48.5,37-45,under
+2018-19,Toronto Raptors,+1850,55.5,58-24,over
+2018-19,Philadelphia 76ers,+2000,53.5,51-31,under
+2018-19,Oklahoma City Thunder,+3800,48.5,49-33,over
+2017-18,Utah Jazz,+25000,40.5,48-34,over
+2017-18,Los Angeles Lakers,+30000,33.5,35-47,over
+2017-18,Portland Trail Blazers,+31500,42.5,49-33,over
+2017-18,Memphis Grizzlies,+37000,37.5,22-60,under
+2017-18,Dallas Mavericks,+50000,35.5,24-58,under
+2017-18,Charlotte Hornets,+50000,42.5,36-46,under
+2018-19,Utah Jazz,+10000,49.5,50-32,over
+2018-19,San Antonio Spurs,+10000,43.5,48-34,over
+2018-19,New Orleans Pelicans,+10000,45.5,33-49,under
+2017-18,Detroit Pistons,+63000,38.5,39-43,over
+2017-18,New York Knicks,+100000,30.5,29-53,under
+2017-18,Phoenix Suns,+125000,28.5,21-61,under
+2017-18,Sacramento Kings,+125000,27.5,27-55,under
+2017-18,Indiana Pacers,+125000,31.5,48-34,over
+2018-19,Milwaukee Bucks,+10000,48.0,60-22,over
+2018-19,Washington Wizards,+11000,45.5,32-50,under
+2018-19,Indiana Pacers,+12500,47.5,48-34,over
+2018-19,Denver Nuggets,+20000,47.5,54-28,over
+2018-19,Minnesota Timberwolves,+25000,41.5,36-46,under
+2018-19,Portland Trail Blazers,+30000,42.0,53-29,over
+2017-18,Atlanta Hawks,+200000,25.5,24-58,under
+2017-18,Orlando Magic,+250000,33.5,25-57,under
+2017-18,Brooklyn Nets,+250000,27.5,28-54,over
+2018-19,Miami Heat,+35000,43.0,39-43,under
+2018-19,Detroit Pistons,+35000,38.5,41-41,over
+2018-19,New York Knicks,+35000,28.5,17-65,under
+2018-19,Dallas Mavericks,+35000,35.5,33-49,under
+2018-19,Los Angeles Clippers,+40000,37.0,48-34,over
+2018-19,Cleveland Cavaliers,+50000,30.5,19-63,under
+2018-19,Chicago Bulls,+50000,30.0,22-60,under
+2017-18,Chicago Bulls,+250000,22.0,27-55,over
+2018-19,Charlotte Hornets,+50000,35.5,39-43,over
+2018-19,Memphis Grizzlies,+65000,34.5,33-49,under
+2018-19,Orlando Magic,+75000,31.0,42-40,over
+2018-19,Phoenix Suns,+75000,29.0,19-63,under
+2018-19,Brooklyn Nets,+125000,32.0,42-40,over
+2018-19,Atlanta Hawks,+150000,23.5,29-53,over
+2018-19,Sacramento Kings,+200000,26.0,39-43,over
